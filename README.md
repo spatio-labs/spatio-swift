@@ -6,7 +6,7 @@ Generated SDK for the [SpatioAPI](https://www.spatio.app/developers/docs/api). D
 
 ```bash
 // Package.swift
-.package(url: "https://github.com/spatio-labs/spatio-swift", from: "0.0.1")
+.package(url: "https://github.com/spatio-labs/spatio-swift", from: "0.0.2")
 ```
 
 ## Import
